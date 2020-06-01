@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mapapp</string>
+    <string name="title_activity_maps">Dhamma Map</string>
+    <string name="info_clicked">you clicked !!!!!</string>
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+</resources>
